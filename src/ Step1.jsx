@@ -54,7 +54,7 @@ const Step1 = () => {
 
 
 
-        <PrimaryButton>Submit yo</PrimaryButton>
+        <PrimaryButton>Next</PrimaryButton>
     </Form>
 
         </MainContainer>
